@@ -132,3 +132,174 @@ li{
     padding-right: 40px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 }
+
+.bodyifaqes{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.foto2{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4);
+    max-width: 400px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+    margin: 100px;
+    size: 500px;
+    padding: 50px;
+}
+.price {
+    color: grey;
+    font-size: 22px;
+}
+.foto2 button {
+border: none;
+outline: 0;
+padding: 12px;
+color: white;
+background-color: rgb(14,28,79);
+text-align: center;
+cursor: pointer;
+width: 100%;
+font-size: 18px;
+}
+.foto2 button:hover{
+opacity: 0.7;
+}
+.foto3 {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4);
+    max-width: 400px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+    margin: 100px;
+    padding: 50px;
+}
+.price {
+    color: grey;
+    font-size: 22px;
+}
+.foto3 button {
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: white;
+    background-color: rgb(14,28,79);
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px; 
+}
+.foto3 button:hover {
+    opacity: 0.7;
+}
+.foto4 {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4);
+    max-width: 400px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+    margin: 100px;
+    padding: 50px;
+}
+.price {
+    color: grey;
+    font-size: 22px;
+}
+
+.foto4 button {
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: white;
+    background-color: rgb(14,28,79);
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+}
+.foto4 button:hover {
+    opacity: 0.7;
+}
+.foto5 {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4);
+    max-width: 400px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+    margin: 100px;
+    padding: 50px;
+}
+.price {
+    color: grey;
+    font-size: 22px;
+}
+.foto5 button{
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: white;
+    background-color: rgb(14,28,79);
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+}
+.foto5 button:hover {
+    opacity: 0.7;
+}
+.foto6 {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4);
+    max-width: 400px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+    margin: 100px;
+    padding: 50px;
+}
+.price {
+    color: grey;
+    font-size: 22px;
+}
+.foto6 button {
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: white;
+    background-color: rgb(14,28,79);
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+}
+.foto6 button:hover {
+    opacity: 0.7;
+}
+.foto7 {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4);
+    max-width: 400px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+    margin: 100px;
+    padding: 50px;
+}
+.price {
+    color: grey;
+    font-size: 22px;
+}
+.foto7 button {
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: white;
+    background-color: rgb(14,28,79);
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+}
+.foto7 button:hover {
+    opacity: 0.7;
+}
