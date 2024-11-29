@@ -1,0 +1,58 @@
+body{
+    background-attachment: fixed;
+    background-color:  white;
+    margin: 0;
+    display: flex;   
+}
+a{
+    text-decoration: none;
+    color: rgb(14,28,79);
+}
+
+.button1{
+    justify-content: flex-start;
+    border: none;
+    outline: none;
+    height: 50px;
+    width: 50px;
+    cursor:grab;
+    background: fixed;
+    border-radius: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+    color: rgb(14,28,79);
+}
+.button1:hover{
+    background: rgb(228,199,129);
+}
+.button1:active{
+    background: rgb(14,28,79);
+}
+.fa-cart-shopping{
+    font-size: 35px;
+}
+
+.loginform{
+    justify-content: flex-start;
+    border: none;
+    outline: none;
+    height: 50px;
+    width: 50px;
+    cursor:grab;
+    background: fixed;
+    border-radius: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+    text-decoration: none;
+
+}
+.loginform:hover{
+    background: rgb(228,199,129);
+}
+.loginform:active{
+    background: rgb(14,28,79);
+}
+
+.icon1{
+    font-size: 30px;
+}
